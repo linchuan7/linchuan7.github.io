@@ -21,7 +21,7 @@
 
 * [曹操](section3/section3.md)
   * [短歌行二首·其一](section3/chapter1.md)
-  * [步出夏门行·观沧海](section3/chapter2.md)
+  * [步出夏门行五首·观沧海](section3/chapter2.md)
 
 * [曹丕](section4/section4.md)
   * [燕歌行二首·其一](section4/chapter1.md)
