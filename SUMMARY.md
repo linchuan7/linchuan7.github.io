@@ -27,7 +27,7 @@
   * [燕歌行二首·其一](section4/chapter1.md)
 
 * [岑参](section5/section5.md)
-  * [走马川行·奉送封大夫出师西征](section5/chapter1.md)
+  * [走马川行奉送封大夫出师西征](section5/chapter1.md)
 
 * [常建](section6/section6.md)
   * [题破山寺后禅院](section6/chapter1.md)
