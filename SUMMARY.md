@@ -39,7 +39,8 @@
   * [陇西行四首·其二](section8/chapter1.md)
 
 * [戴叔伦](section9/section9.md)
-  * [调笑令·边草](section9/chapter1.md)
+  * [除夜宿石头驿](section9/chapter1.md)
+  * [调笑令·边草](section9/chapter2.md)
           
 * [杜甫](section12/section12.md)
   * [哀江头](section12/chapter1.md)
