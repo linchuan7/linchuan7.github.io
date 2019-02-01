@@ -38,14 +38,8 @@
 * [陈陶](section8/section8.md)
   * [陇西行四首·其二](section8/chapter1.md)
 
-* [陈与义](section9/section9.md)
-  * [临江仙·忆昔午桥桥上饮](section9/chapter1.md)
-
-* [程颢](section10/section10.md)
-  * [春日偶成](section10/chapter1.md)
-
-* [戴叔伦](section11/section11.md)
-  * [兰溪棹歌](section11/chapter1.md)
+* [戴叔伦](section9/section9.md)
+  * [调笑令·边草](section9/chapter1.md)
           
 * [杜甫](section12/section12.md)
   * [哀江头](section12/chapter1.md)
