@@ -8,7 +8,7 @@
   * [花非花](section1/chapter5.md)
   * [江楼夕望招客](section1/chapter6.md)
   * [井底引银瓶](section1/chapter7.md)
-  * [浪淘沙·白浪茫茫与海连](section1/chapter8.md)
+  * [浪淘沙六首·其二](section1/chapter8.md)
   * [梦微之](section1/chapter9.md)
   * [琵琶行](section1/chapter10.md)
   * [潜别离](section1/chapter11.md)
