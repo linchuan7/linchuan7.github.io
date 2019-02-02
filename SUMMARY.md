@@ -58,8 +58,7 @@
   * [水槛遣心二首·其一](section10/chapter13.md)
   * [天末怀李白](section10/chapter14.md)
   * [戏为六绝句·其二](section10/chapter15.md)
-  * [咏怀古迹五首·其三](section10/chapter16.md)
-  * [赠卫八处士](section10/chapter17.md)
+  * [赠卫八处士](section10/chapter16.md)
  
 * [杜牧](section14/section14.md)
   * [寄扬州韩绰判官](section14/chapter1.md)
