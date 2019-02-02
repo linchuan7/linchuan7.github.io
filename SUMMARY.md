@@ -62,10 +62,9 @@
 * [杜牧](section11/section11.md)
   * [寄扬州韩绰判官](section11/chapter1.md)
   * [江南春](section11/chapter2.md)
-  * [遣怀](section11/chapter3.md)
-  * [秋夕](section11/chapter4.md)
-  * [题宣州开元寺水阁](section11/chapter5.md)
-  * [赠别二首](section11/chapter6.md)
+  * [秋夕](section11/chapter3.md)
+  * [题宣州开元寺水阁](section11/chapter4.md)
+  * [赠别二首](section11/chapter5.md)
 
 * [范成大](section15/section15.md)
   * [车遥遥篇](section15/chapter1.md)
