@@ -81,8 +81,8 @@
 * [高鼎](section18/section18.md)
   * [村居](section18/chapter1.md)
 
-* [高适](section19/section19.md)
-  * [塞上听吹笛](section19/chapter1.md)
+* [高适](section16/section16.md)
+  * [燕歌行](section16/chapter1.md)
 
 * [韩翃](section20/section20.md)
   * [寒食](section20/chapter1.md)
