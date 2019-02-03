@@ -2,12 +2,12 @@
  
 * [白居易](section1/section1.md)
   * [长恨歌](section1/chapter1.md)
-  * [放言五首·其三](section1/chapter2.md)
+  * [放言五首・其三](section1/chapter2.md)
   * [赋得古原草送别](section1/chapter3.md)
   * [花非花](section1/chapter4.md)
   * [江楼夕望招客](section1/chapter5.md)
   * [井底引银瓶](section1/chapter6.md)
-  * [浪淘沙六首·其二](section1/chapter7.md)
+  * [浪淘沙六首・其二](section1/chapter7.md)
   * [梦微之](section1/chapter8.md)
   * [琵琶行](section1/chapter9.md)
   * [潜别离](section1/chapter10.md)
@@ -16,14 +16,14 @@
 
 * [鲍照](section2/section2.md)
   * [梅花落](section2/chapter1.md) 
-  * [拟行路难十八首·其四](section2/chapter2.md)   
+  * [拟行路难十八首・其四](section2/chapter2.md)   
 
 * [曹操](section3/section3.md)
-  * [短歌行二首·其一](section3/chapter1.md)
+  * [短歌行二首・其一](section3/chapter1.md)
   * [步出夏门行五首·观沧海](section3/chapter2.md)
 
 * [曹丕](section4/section4.md)
-  * [燕歌行二首·其一](section4/chapter1.md)
+  * [燕歌行二首・其一](section4/chapter1.md)
 
 * [岑参](section5/section5.md)
   * [走马川行奉送封大夫出师西征](section5/chapter1.md)
@@ -35,11 +35,11 @@
   * [夜行](section7/chapter1.md)
 
 * [陈陶](section8/section8.md)
-  * [陇西行四首·其二](section8/chapter1.md)
+  * [陇西行四首・其二](section8/chapter1.md)
 
 * [戴叔伦](section9/section9.md)
   * [除夜宿石头驿](section9/chapter1.md)
-  * [调笑令·边草](section9/chapter2.md)
+  * [调笑令・边草](section9/chapter2.md)
           
 * [杜甫](section10/section10.md)
   * [哀江头](section10/chapter1.md)
@@ -51,12 +51,12 @@
   * [江汉](section10/chapter7.md)
   * [客至](section10/chapter8.md)
   * [旅夜书怀](section10/chapter9.md)
-  * [梦李白二首·其一](section10/chapter10.md)
-  * [秋兴八首·其一](section10/chapter11.md)
+  * [梦李白二首・其一](section10/chapter10.md)
+  * [秋兴八首・其一](section10/chapter11.md)
   * [曲江二首](section10/chapter12.md)
-  * [水槛遣心二首·其一](section10/chapter13.md)
+  * [水槛遣心二首・其一](section10/chapter13.md)
   * [天末怀李白](section10/chapter14.md)
-  * [戏为六绝句·其二](section10/chapter15.md)
+  * [戏为六绝句・其二](section10/chapter15.md)
   * [赠卫八处士](section10/chapter16.md)
  
 * [杜牧](section11/section11.md)
@@ -70,13 +70,13 @@
   * [车遥遥篇](section12/chapter1.md)
  
 * [范仲淹](section13/section13.md)
-  * [苏幕遮·怀旧](section13/chapter1.md)
-  * [御街行·秋日怀旧](section13/chapter2.md)
+  * [苏幕遮・怀旧](section13/chapter1.md)
+  * [御街行・秋日怀旧](section13/chapter2.md)
 
-* [冯延巳](section17/section17.md)
-  * [鹊踏枝·几日行云何处去](section17/chapter1.md)
-  * [鹊踏枝·谁道闲情抛掷久](section17/chapter2.md)
-  * [鹊踏枝·萧索清秋珠泪坠](section17/chapter3.md)
+* [冯延巳](section14/section14.md)
+  * [鹊踏枝・几日行云何处去](section14/chapter1.md)
+  * [鹊踏枝・谁道闲情抛掷久](section14/chapter2.md)
+  * [鹊踏枝・萧索清秋珠泪坠](section14/chapter3.md)
 
 * [高鼎](section18/section18.md)
   * [村居](section18/chapter1.md)
