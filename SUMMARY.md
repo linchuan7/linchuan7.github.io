@@ -84,11 +84,8 @@
 * [高适](section16/section16.md)
   * [燕歌行](section16/chapter1.md)
 
-* [韩翃](section20/section20.md)
-  * [寒食](section20/chapter1.md)
-
-* [韩愈](section21/section21.md)
-  * [猗兰操](section21/chapter1.md)
+* [韩愈](section17/section17.md)
+  * [猗兰操](section17/chapter1.md)
 
 * [贺铸](section22/section22.md)
   * [青玉案·凌波不过横塘路](section22/chapter1.md)
