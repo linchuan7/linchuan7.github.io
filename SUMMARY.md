@@ -87,8 +87,9 @@
 * [韩愈](section17/section17.md)
   * [猗兰操](section17/chapter1.md)
 
-* [贺铸](section22/section22.md)
-  * [青玉案·凌波不过横塘路](section22/chapter1.md)
+* [贺铸](section18/section18.md)
+  * [六州歌头・少年侠气](section18/chapter1.md)
+  * [青玉案・凌波不过横塘路](section18/chapter2.md)
  
 * [黄景仁](section23/section23.md)
   * [绮怀十六首·其十五](section23/chapter1.md)
