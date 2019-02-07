@@ -89,16 +89,13 @@
 
 * [贺铸](section18/section18.md)
   * [六州歌头・少年侠气](section18/chapter1.md)
-  * [青玉案・凌波不过横塘路](section18/chapter2.md)
  
-* [黄景仁](section23/section23.md)
-  * [绮怀十六首·其十五](section23/chapter1.md)
+* [黄景仁](section19/section19.md)
+  * [绮怀十六首・其十五](section19/chapter1.md)
 
-* [黄庭坚](section24/section24.md)
-  * [登快阁](section24/chapter1.md)
-  * [鄂州南楼书事](section24/chapter2.md)
-  * [清明](section24/chapter3.md)
-  * [王充道送水仙花五十支](section24/chapter4.md)
+* [黄庭坚](section20/section20.md)
+  * [登快阁](section20/chapter1.md)
+  * [鄂州南楼书事](section20/chapter2.md)
 
 * [贾岛](section25/section25.md)
   * [忆江上吴处士](section25/chapter1.md)
