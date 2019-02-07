@@ -97,15 +97,14 @@
   * [登快阁](section20/chapter1.md)
   * [鄂州南楼书事](section20/chapter2.md)
 
-* [贾岛](section25/section25.md)
-  * [忆江上吴处士](section25/chapter1.md)
+* [贾岛](section21/section21.md)
+  * [忆江上吴处士](section21/chapter1.md)
 
-* [贾至](section26/section26.md)
-  * [春思二首·其一](section26/chapter1.md)
+* [贾至](section22/section22.md)
+  * [春思二首・其一](section22/chapter1.md)
 
-* [姜夔](section27/section27.md)
-  * [踏莎行·燕燕轻盈](section27/chapter1.md)
-  * [扬州慢·淮左名都](section27/chapter2.md)
+* [姜夔](section23/section23.md)
+  * [踏莎行・燕燕轻盈](section23/chapter1.md)
 
 * [蒋捷](section28/section28.md)
   * [梅花引·荆溪阻雪](section28/chapter1.md)
