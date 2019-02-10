@@ -34,14 +34,14 @@
 * [晃冲之](section7/section7.md)
   * [夜行](section7/chapter1.md)
 
-* [陈子昂](section9/section9.md)
-  * [春夜别友人二首・其一](section9/chapter1.md)
+* [陈与义](section9/section9.md)
+  * [临江仙・忆昔午桥桥上饮](section9/chapter1.md)
 
-* [程颢](section10/section10.md)
-  * [秋日偶成二首・其二](section10/chapter1.md)
-
-* [陈与义](section11/section11.md)
-  * [临江仙・忆昔午桥桥上饮](section11/chapter1.md)
+* [陈子昂](section10/section10.md)
+  * [春夜别友人二首・其一](section10/chapter1.md)
+  
+* [程颢](section11/section11.md)
+  * [秋日偶成二首・其二](section11/chapter1.md)
 
 * [戴叔伦](section12/section12.md)
   * [除夜宿石头驿](section12/chapter1.md)
