@@ -43,7 +43,7 @@
 * [戴叔伦](section11/section11.md)
   * [除夜宿石头驿](section11/chapter1.md)
   * [调笑令・边草](section11/chapter2.md)
-​
+ 
 * [杜甫](section12/section12.md)
   * [哀江头](section12/chapter1.md)
   * [兵车行](section12/chapter2.md)
@@ -63,17 +63,16 @@
   * [戏为六绝句・其二](section12/chapter16.md)
   * [饮中八仙歌](section12/chapter17.md)
   * [赠卫八处士](section12/chapter18.md)
-​
+ 
 * [杜牧](section13/section13.md)
-  * [过华清宫三首・其一](section13/chapter1.md)
-  * [江南春](section13/chapter2.md)
-  * [秋夕](section13/chapter3.md)
-  * [题宣州开元寺水阁](section13/chapter4.md)
-  * [赠别二首・其二](section13/chapter5.md)
+  * [江南春](section13/chapter1.md)
+  * [秋夕](section13/chapter2.md)
+  * [题宣州开元寺水阁](section13/chapter3.md)
+  * [赠别二首・其二](section13/chapter4.md)
 
 * [范成大](section14/section14.md)
   * [车遥遥篇](section14/chapter1.md)
-​
+ 
 * [范仲淹](section15/section15.md)
   * [苏幕遮・怀旧](section15/chapter1.md)
   * [御街行・秋日怀旧](section15/chapter2.md)
@@ -94,7 +93,7 @@
 
 * [贺铸](section20/section20.md)
   * [六州歌头・少年侠气](section20/chapter1.md)
-​
+ 
 * [黄景仁](section21/section21.md)
   * [绮怀十六首・其十五](section21/chapter1.md)
 
