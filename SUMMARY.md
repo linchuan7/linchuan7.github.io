@@ -157,9 +157,6 @@
   * [暮秋独游曲江](section31/chapter5.md)
   * [无题・重帏深下莫愁堂](section31/chapter6.md)
 
-* [李益](section34/section34.md)
-  * [夜上受降城闻笛](section34/chapter1.md)
-
 * [李煜](section32/section32.md)
   * [菩萨蛮・花明月暗飞轻雾](section32/chapter1.md)
   * [清平乐・别来春半](section32/chapter2.md)
