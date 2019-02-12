@@ -67,10 +67,7 @@
   * [赠卫八处士](section13/chapter18.md)
  
 * [杜牧](section14/section14.md)
-  * [江南春](section14/chapter1.md)
-  * [秋夕](section14/chapter2.md)
-  * [题宣州开元寺水阁](section14/chapter3.md)
-  * [赠别二首・其二](section14/chapter4.md)
+  * [题宣州开元寺水阁](section14/chapter1.md)
 
 * [范成大](section15/section15.md)
   * [车遥遥篇](section15/chapter1.md)
