@@ -163,27 +163,12 @@
   * [相见欢・无言独上西楼](section32/chapter3.md)
   * [忆江南・多少恨](section32/chapter4.md)
 
-* [林逋](section36/section36.md)
-  * [山园小梅二首·其一](section36/chapter1.md)
+* [刘长卿](section33/section33.md)
+  * [送灵澈上人](section33/chapter1.md)
+  * [别严士元](section33/chapter2.md)
 
-* [林景熙](section37/section37.md)
-  * [溪亭](section37/chapter1.md)
-
-* [刘长卿](section38/section38.md)
-  * [长沙过贾谊宅](section38/chapter1.md)
-  * [逢雪宿芙蓉山主人](section38/chapter2.md)
-  * [送灵澈上人](section38/chapter3.md)
-  * [送严士元](section38/chapter4.md)
-
-* [刘彻](section39/section39.md)
-  * [秋风辞](section39/chapter1.md)
-
-* [刘过](section40/section40.md)
-  * [唐多令·芦叶满汀洲](section40/chapter1.md)
-
-* [刘禹锡](section41/section41.md)
-  * [金陵五题·石头城](section41/chapter1.md)
-  * [秋词二首·其二](section41/chapter2.md)
+* [刘禹锡](section34/section34.md)
+  * [西塞山怀古](section34/chapter2.md)
 
 * [柳永](section42/section42.md)
   * [八声甘州·对潇潇暮雨洒江天](section42/chapter1.md)
