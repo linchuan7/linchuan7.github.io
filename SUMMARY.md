@@ -167,14 +167,11 @@
   * [送灵澈上人](section33/chapter1.md)
   * [别严士元](section33/chapter2.md)
 
-* [刘禹锡](section34/section34.md)
-  * [西塞山怀古](section34/chapter2.md)
+* [刘过](section34/section34.md)
+  * [唐多令・芦叶满汀洲](section34/chapter1.md)
 
-* [柳永](section42/section42.md)
-  * [八声甘州·对潇潇暮雨洒江天](section42/chapter1.md)
-  * [蝶恋花·伫倚危楼风细细](section42/chapter2.md)
-  * [玉蝴蝶·望处雨收云断](section42/chapter3.md)
-  * [雨霖铃·寒蝉凄切](section42/chapter4.md)
+* [刘禹锡](section35/section35.md)
+  * [西塞山怀古](section35/chapter1.md)
 
 * [柳宗元](section43/section43.md)
   * [渔翁](section43/chapter1.md)
