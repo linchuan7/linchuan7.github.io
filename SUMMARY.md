@@ -67,10 +67,7 @@
   * [赠卫八处士](section13/chapter18.md)
  
 * [杜牧](section14/section14.md)
-  * [江南春](section14/chapter1.md)
-  * [秋夕](section14/chapter2.md)
-  * [题宣州开元寺水阁](section14/chapter3.md)
-  * [赠别二首・其二](section14/chapter4.md)
+  * [题宣州开元寺水阁](section14/chapter1.md)
 
 * [范成大](section15/section15.md)
   * [车遥遥篇](section15/chapter1.md)
@@ -160,15 +157,11 @@
   * [暮秋独游曲江](section31/chapter5.md)
   * [无题・重帏深下莫愁堂](section31/chapter6.md)
 
-* [李益](section34/section34.md)
-  * [夜上受降城闻笛](section34/chapter1.md)
-
-* [李煜](section35/section35.md)
-  * [浪淘沙·帘外雨潺潺](section35/chapter1.md)
-  * [浪淘沙·往事只堪哀](section35/chapter2.md)
-  * [菩萨蛮·花明月暗飞轻雾](section35/chapter3.md)
-  * [清平乐·别来春半](section35/chapter4.md)
-  * [相见欢·无言独上西楼](section35/chapter5.md)
+* [李煜](section32/section32.md)
+  * [菩萨蛮・花明月暗飞轻雾](section32/chapter1.md)
+  * [清平乐・别来春半](section32/chapter2.md)
+  * [相见欢・无言独上西楼](section32/chapter3.md)
+  * [忆江南・多少恨](section32/chapter4.md)
 
 * [林逋](section36/section36.md)
   * [山园小梅二首·其一](section36/chapter1.md)
