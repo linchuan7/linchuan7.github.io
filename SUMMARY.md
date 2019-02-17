@@ -234,30 +234,22 @@
   * [阳关曲・中秋月](section49/chapter11.md)
   * [永遇乐・明月如霜](section49/chapter12.md)
 
-* [唐珙](section60/section60.md)
-  * [题龙阳县青草湖](section60/chapter1.md)
+* [唐珙](section50/section50.md)
+  * [题龙阳县青草湖](section50/chapter1.md)
 
-* [陶渊明](section61/section61.md)
-  * [停云四首·其四](section61/chapter1.md)
-  * [咏荆轲](section61/chapter2.md)
-  * [杂诗十二首·其二](section61/chapter3.md)
+* [陶渊明](section51/section51.md)
+  * [杂诗十二首・其二](section51/chapter3.md)
 
-* [王安石](section62/section62.md)
-  * [登飞来峰](section62/chapter1.md)
+* [王安石](section52/section52.md)
+  * [登飞来峰](section52/chapter1.md)
+  * [夜直](section52/chapter2.md)  
 
-* [王勃](section63/section63.md)
-  * [山中](section63/chapter1.md)
-  * [送杜少府之任蜀州](section63/chapter2.md)
+* [王勃](section53/section53.md)
+  * [山中](section53/chapter1.md)
 
-* [王昌龄](section64/section64.md)
-  * [芙蓉楼送辛渐二首](section64/chapter1.md)
-  * [送魏二](section64/chapter2.md)
-
-* [王国维](section65/section65.md)
-  * [蝶恋花·阅尽天涯离别苦](section65/chapter1.md)
-
-* [王建](section66/section66.md)
-  * [十五夜望月寄杜郎中](section66/chapter1.md)
+* [王昌龄](section54/section54.md)
+  * [芙蓉楼送辛渐二首](section54/chapter1.md)
+  * [送魏二](section54/chapter2.md)
 
 * [王维](section67/section67.md)
   * [汉江临眺](section67/chapter1.md)
