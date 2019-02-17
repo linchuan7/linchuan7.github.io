@@ -190,9 +190,10 @@
   * [与诸子登岘山](section40/chapter2.md)
 
 * [纳兰性德](section41/section41.md)
-  * [蝶恋花・出塞](section41/chapter1.md)
-  * [浣溪沙・残雪凝辉冷画屏](section41/chapter2.md)
-  * [虞美人・银床淅沥青梧老](section41/chapter3.md)
+  * [采桑子・明月多情应笑我](section41/chapter1.md)
+  * [蝶恋花・出塞](section41/chapter2.md)
+  * [浣溪沙・残雪凝辉冷画屏](section41/chapter3.md)
+  * [虞美人・银床淅沥青梧老](section41/chapter4.md)
 
 * [牛希济](section42/section42.md)
   * [生查子・春山烟欲收](section42/chapter1.md)
