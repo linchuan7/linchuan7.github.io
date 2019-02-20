@@ -61,7 +61,7 @@
   * [曲江二首](section13/chapter13.md)
   * [水槛遣心二首・其一](section13/chapter14.md)
   * [天末怀李白](section13/chapter15.md)
-  * [望岳](section13/chapter16.md)
+  * [望岳三首・其一](section13/chapter16.md)
   * [戏为六绝句・其二](section13/chapter17.md)
   * [饮中八仙歌](section13/chapter18.md)
   * [赠卫八处士](section13/chapter19.md)
