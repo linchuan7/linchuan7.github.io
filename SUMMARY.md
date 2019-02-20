@@ -231,8 +231,9 @@
   * [水调歌头・明月几时有](section49/chapter8.md)
   * [题西林壁](section49/chapter9.md)
   * [望江南・春未老](section49/chapter10.md)
-  * [阳关曲・中秋月](section49/chapter11.md)
-  * [永遇乐・明月如霜](section49/chapter12.md)
+  * [行香子・过七里濑](section49/chapter11.md)
+  * [阳关曲・中秋月](section49/chapter12.md)
+  * [永遇乐・明月如霜](section49/chapter13.md)
 
 * [唐珙](section50/section50.md)
   * [题龙阳县青草湖](section50/chapter1.md)
