@@ -159,9 +159,8 @@
 
 * [李煜](section32/section32.md)
   * [菩萨蛮・花明月暗飞轻雾](section32/chapter1.md)
-  * [清平乐・别来春半](section32/chapter2.md)
-  * [相见欢・无言独上西楼](section32/chapter3.md)
-  * [忆江南・多少恨](section32/chapter4.md)
+  * [相见欢・无言独上西楼](section32/chapter2.md)
+  * [忆江南・多少恨](section32/chapter3.md)
 
 * [刘长卿](section33/section33.md)
   * [送灵澈上人](section33/chapter1.md)
@@ -263,30 +262,18 @@
   * [终南山](section55/chapter8.md)
   * [竹里馆](section55/chapter9.md)
 
-* [王之涣](section68/section68.md)
-  * [登鹳雀楼](section68/chapter1.md)
+* [王之涣](section56/section56.md)
+  * [登鹳雀楼](section56/chapter1.md)
 
-* [韦应物](section69/section69.md)
-  * [滁州西涧](section69/chapter1.md)
-  * [秋夜寄邱二十二员外](section69/chapter2.md)
+* [韦庄](section57/section57.md)
+  * [思帝乡・春日游](section57/chapter1.md)
+  * [忆昔](section57/chapter2.md)
 
-* [韦庄](section70/section70.md)
-  * [菩萨蛮·人人尽说江南好](section70/chapter1.md)
-  * [思帝乡·春日游](section70/chapter2.md)
-  * [台城](section70/chapter3.md)
-  * [忆昔](section70/chapter4.md)
+* [温庭筠](section58/section58.md)
+  * [梦江南・千万恨](section58/chapter1.md)
 
-* [文天祥](section71/section71.md)
-  * [过零丁洋](section71/chapter1.md)
-  * [正气歌](section71/chapter2.md)
-
-* [温庭筠](section72/section72.md)
-  * [更漏子·星斗稀](section72/chapter1.md)
-  * [梦江南·千万恨](section72/chapter2.md)
-
-* [吴文英](section73/section73.md)
-  * [浣溪沙·门隔花深梦旧游](section73/chapter1.md)
-  * [唐多令·惜别](section73/chapter2.md)
+* [文天祥](section59/section59.md)
+  * [正气歌](section59/chapter1.md)
 
 * [辛弃疾](section74/section74.md)
   * [贺新郎·别茂嘉十二弟](section74/chapter1.md)
