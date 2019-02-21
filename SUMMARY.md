@@ -211,14 +211,14 @@
   * [九歌・山鬼](section45/chapter1.md)
   * [九歌・少司命](section45/chapter2.md)
 
-* [舒亶](section46/section46.md)
-  * [虞美人・寄公度](section46/chapter1.md)
+* [释志文](section46/section46.md)
+  * [西阁](section46/chapter1.md)
 
-* [司马光](section47/section47.md)
-  * [西江月・宝髻松松挽就](section47/chapter1.md)
+* [舒亶](section47/section47.md)
+  * [虞美人・寄公度](section47/chapter1.md)
 
-* [释志文](section48/section48.md)
-  * [西阁](section48/chapter1.md)
+* [司马光](section48/section48.md)
+  * [西江月・宝髻松松挽就](section48/chapter1.md)
 
 * [苏轼](section49/section49.md)
   * [卜算子・缺月挂疏桐](section49/chapter1.md)
