@@ -239,7 +239,7 @@
   * [题龙阳县青草湖](section50/chapter1.md)
 
 * [陶渊明](section51/section51.md)
-  * [杂诗十二首・其二](section51/chapter3.md)
+  * [杂诗十二首・其二](section51/chapter1.md)
 
 * [王安石](section52/section52.md)
   * [登飞来峰](section52/chapter1.md)
@@ -261,6 +261,7 @@
   * [辛夷坞](section55/chapter6.md)
   * [终南别业](section55/chapter7.md)
   * [终南山](section55/chapter8.md)
+  * [竹里馆](section55/chapter9.md)
 
 * [王之涣](section68/section68.md)
   * [登鹳雀楼](section68/chapter1.md)
