@@ -170,7 +170,8 @@
   * [唐多令・芦叶满汀洲](section34/chapter1.md)
 
 * [刘禹锡](section35/section35.md)
-  * [西塞山怀古](section35/chapter1.md)
+  * [石头城](section35/chapter1.md)
+  * [西塞山怀古](section35/chapter2.md)
 
 * [柳宗元](section36/section36.md)
   * [渔翁](section36/chapter1.md)
