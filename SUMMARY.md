@@ -276,13 +276,11 @@
 * [文天祥](section59/section59.md)
   * [正气歌](section59/chapter1.md)
 
-* [辛弃疾](section74/section74.md)
-  * [贺新郎·别茂嘉十二弟](section74/chapter1.md)
-  * [摸鱼儿·更能消几番风雨](section74/chapter2.md)
-  * [破阵子·为陈同甫赋壮词以寄之](section74/chapter3.md)
-  * [青玉案·元夕](section74/chapter4.md)
-  * [西江月·夜行黄沙道中](section74/chapter5.md)
-  * [永遇乐·京口北固亭怀古](section74/chapter6.md)
+* [辛弃疾](section60/section60.md)
+  * [贺新郎・别茂嘉十二弟](section60/chapter1.md)
+  * [破阵子・为陈同甫赋壮词以寄之](section60/chapter2.md)
+  * [青玉案・元夕](section60/chapter3.md)
+  * [西江月・夜行黄沙道中](section60/chapter4.md)
 
 * [许浑](section61/section61.md)
   * [咸阳城东楼](section61/chapter1.md)
