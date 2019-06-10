@@ -191,7 +191,6 @@
 * [纳兰性德](section41/section41.md)
   * [蝶恋花・出塞](section41/chapter1.md)
   * [浣溪沙・残雪凝辉冷画屏](section41/chapter2.md)
-  * [虞美人・银床淅沥青梧老](section41/chapter3.md)
 
 * [牛希济](section42/section42.md)
   * [生查子・春山烟欲收](section42/chapter1.md)
@@ -284,8 +283,7 @@
   * [咸阳城东楼](section61/chapter1.md)
 
 * [晏几道](section62/section62.md)
-  * [临江仙・斗草阶前初见](section62/chapter1.md)
-  * [鹧鸪天・小令尊前见玉箫](section62/chapter2.md)
+  * [鹧鸪天・小令尊前见玉箫](section62/chapter1.md)
 
 * [晏殊](section63/section63.md)
   * [蝶恋花・槛菊愁烟兰泣露](section63/chapter1.md)
