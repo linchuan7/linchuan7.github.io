@@ -297,7 +297,7 @@
   * [柏舟](section65/chapter1.md)
   * [北风](section65/chapter2.md)
   * [伯兮](section65/chapter3.md)
-  * [二十四诗品](section65/chapter4.md)
+  * [二十四诗品・选](section65/chapter4.md)
   * [葛生](section65/chapter5.md)
   * [击鼓](section65/chapter6.md)
   * [蒹葭](section65/chapter7.md)
